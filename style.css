@@ -5,3 +5,16 @@ body {
     background-size: cover;
     height: 100%;
 }
+
+
+.heading {
+    box-shadow:5px 5px 5px grey;
+    background-color: white;
+    border-radius: 15px;
+}
+.heading2 {
+    box-shadow:5px 5px 5px grey;
+    background-color: white;
+    border-radius: 15px;
+}
+  
